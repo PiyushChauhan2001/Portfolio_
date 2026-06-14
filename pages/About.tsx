@@ -31,11 +31,7 @@ const About = () => {
           >
             <div className="space-y-6">
               <p className="text-lg text-gray-300 leading-relaxed">
-                I'm Archit, a 3rd-year IT student passionate about full-stack
-                development and modern web technologies like React and Next.js.
-                I enjoy building smart, user-friendly solutions and have worked
-                on various personal and academic projects. I'm a quick learner,
-                team player, and always eager to explore and grow in tech.
+                Hi, I am Piyush Chauhan. I am passionate about leveraging AI and software engineering to solve real-world problems, and I continuously enhance my skills through hands-on projects, cloud certifications, and learning emerging technologies. I am currently based in New Delhi, India, and actively seeking opportunities where I can contribute to innovative technology-driven solutions while continuing to grow as a software and AI professional.
               </p>
 
               <p className="text-lg text-gray-300 leading-relaxed">
@@ -56,7 +52,7 @@ const About = () => {
                   <GraduationCap className="h-6 w-6 text-[#00ff9f] mb-2" />
                   <div className="text-sm text-gray-400">Education</div>
                   <div className="text-white">
-                    B.Tech in Information Technology (3rd Year)
+                    B.Tech in Information Technology 
                   </div>
                 </div>
               </div>

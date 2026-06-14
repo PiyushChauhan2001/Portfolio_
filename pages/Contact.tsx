@@ -54,30 +54,30 @@ const Contact = () => {
 
               <div className="space-y-4">
                 <motion.a
-                  href="mailto:archit0422chatan@gmail.com"
+                  href="mailto:learnerpiyush2001@gmail.com"
                   className="flex items-center space-x-4 p-4 rounded-lg bg-[#2d2d2d]/50 border border-[#2d2d2d] hover:border-[#00ffff] transition-all duration-300"
                   whileHover={{ x: 10 }}
                 >
                   <Mail className="h-6 w-6 text-[#00ffff]" />
-                  <span className="text-white">archit0422chatan@gmail.com</span>
+                  <span className="text-white">learnerpiyush2001@gmail.com</span>
                 </motion.a>
 
                 <motion.a
-                  href="https://www.linkedin.com/in/archit-jain-380ba4289/"
+                  href="https://www.linkedin.com/in/piyush-chauhan-881b97214/"
                   className="flex items-center space-x-4 p-4 rounded-lg bg-[#2d2d2d]/50 border border-[#2d2d2d] hover:border-[#00ff9f] transition-all duration-300"
                   whileHover={{ x: 10 }}
                 >
                   <Linkedin className="h-6 w-6 text-[#00ff9f]" />
-                  <span className="text-white">linkedin.com/in/architjain</span>
+                  <span className="text-white">linkedin.com/in/piyush-chauhan</span>
                 </motion.a>
 
                 <motion.a
-                  href="https://github.com/Archit-0"
+                  href=""
                   className="flex items-center space-x-4 p-4 rounded-lg bg-[#2d2d2d]/50 border border-[#2d2d2d] hover:border-[#007acc] transition-all duration-300"
                   whileHover={{ x: 10 }}
                 >
                   <Github className="h-6 w-6 text-[#007acc]" />
-                  <span className="text-white">github.com/Archit-0</span>
+                  <span className="text-white">github.com/AmbitiousBoy2001</span>
                 </motion.a>
               </div>
 

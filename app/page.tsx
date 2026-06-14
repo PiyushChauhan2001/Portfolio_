@@ -105,7 +105,7 @@ export default function FreshGraduatePortfolio() {
             className="text-2xl font-bold bg-gradient-to-r from-[#00ffff] to-[#00ff9f] bg-clip-text text-transparent"
             whileHover={{ scale: 1.05 }}
           >
-            {"<ArchitDev />"}
+            {"<PiyushDev />"}
           </motion.div>
           <div className="hidden md:flex space-x-8">
             {[
@@ -181,8 +181,8 @@ export default function FreshGraduatePortfolio() {
               transition={{ duration: 0.8, delay: 0.5 }}
             >
               <img
-                src="/archit.jpg?height=128&width=128"
-                alt="Archit jain"
+                src="/Piyush.jpeg?height=128&width=128"
+                alt="Piyush Chauhan"
                 className="w-full h-full object-cover"
               />
             </motion.div>
@@ -193,9 +193,9 @@ export default function FreshGraduatePortfolio() {
               animate={{ opacity: 1 }}
               transition={{ duration: 1, delay: 0.7 }}
             >
-              Archit{" "}
+              Piyush{" "}
               <span className="bg-gradient-to-r from-[#00ffff] to-[#00ff9f] bg-clip-text text-transparent">
-                jain
+                Chauhan
               </span>
             </motion.h1>
 
@@ -242,7 +242,7 @@ export default function FreshGraduatePortfolio() {
                   →
                 </motion.div>
               </Button>
-              <a href="/Archit-jain_resume.pdf" download>
+              <a href="Portfolio\public\14-06-2026_Piyush.pdf" download>
                 <Button
                   size="lg"
                   variant="outline"
@@ -270,7 +270,7 @@ export default function FreshGraduatePortfolio() {
                 <div className="text-sm text-gray-400">Projects</div>
               </div>
               <div className="text-center p-4 rounded-lg bg-[#1a1a1a] border border-[#2d2d2d]">
-                <div className="text-2xl font-bold text-[#007acc]">8.3</div>
+                <div className="text-2xl font-bold text-[#007acc]">8.2</div>
                 <div className="text-sm text-gray-400">CGPA</div>
               </div>
               <div className="text-center p-4 rounded-lg bg-[#1a1a1a] border border-[#2d2d2d]">
@@ -301,7 +301,7 @@ export default function FreshGraduatePortfolio() {
       <footer className="py-8 border-t border-[#2d2d2d] bg-[#0f0f0f]">
         <div className="container mx-auto px-4 text-center">
           <p className="text-gray-400">
-            © 2025 Archit jain. Built with passion using Next.js, TypeScript &
+            © 2025 Piyush Chauhan. Built with passion using Next.js, TypeScript &
             Framer Motion.
           </p>
           <p className="text-sm text-gray-500 mt-2">

@@ -155,7 +155,7 @@ const Project = () => {
                       asChild
                     >
                       <a
-                        href={project.live}
+                        
                         target="_blank"
                         rel="noopener noreferrer"
                       >

@@ -181,9 +181,9 @@ export default function FreshGraduatePortfolio() {
               transition={{ duration: 0.8, delay: 0.5 }}
             >
               <img
-                src="/Piyush.jpeg?height=128&width=128"
+                src="/Piyush2.png?height=128&width=128"
                 alt="Piyush Chauhan"
-                className="w-full h-full object-cover"
+                className="w-full h-fit object-cover"
               />
             </motion.div>
 

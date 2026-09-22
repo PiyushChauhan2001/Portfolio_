@@ -215,8 +215,8 @@ export default function FreshGraduatePortfolio() {
               animate={{ opacity: 1 }}
               transition={{ duration: 1, delay: 1.1 }}
             >
-              Computer Science student seeking internship opportunities to apply
-              modern web development skills and gain industry experience.
+              Information technology graduate seeking a software development internship to apply skills in Python, Django, React, and modern web technologies while gaining hands-on industry experience.
+
             </motion.p>
 
             <motion.div
@@ -242,7 +242,7 @@ export default function FreshGraduatePortfolio() {
                   →
                 </motion.div>
               </Button>
-              <a href="Portfolio\public\14-06-2026_Piyush.pdf" download>
+              <a href="public\Piyush_Chauhan23.pdf" download>
                 <Button
                   size="lg"
                   variant="outline"

@@ -215,7 +215,7 @@ export default function FreshGraduatePortfolio() {
               animate={{ opacity: 1 }}
               transition={{ duration: 1, delay: 1.1 }}
             >
-              Information technology graduate seeking a software development internship to apply skills in Python, Django, React, and modern web technologies while gaining hands-on industry experience.
+              Information technology graduate seeking a software development Opportunities to apply skills in Python, Django, React, and modern web technologies while gaining hands-on industry experience.
 
             </motion.p>
 
